@@ -1,6 +1,6 @@
 {
-    "id": "nodebb-custom-theme",
+    "id": "nodebb-theme-custom",
     "name": "My Theme Name",
     "description": "Enter a description here",
-    "url": "https://github.com/fusionmd/nodebb-custom-theme"
+    "url": "https://github.com/fusionmd/nodebb-theme-custom"
 }

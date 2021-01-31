@@ -1,5 +1,5 @@
 {
-	"id": "nodebb-custom-theme",
+	"id": "nodebb-theme-custom",
 	"library": "./lib/theme.js",
 	"hooks": [
 		{
